@@ -6,6 +6,8 @@
 
 # big data
 *.umap
+*/Startercontent
+
 
 # Compiled Object files
 *.slo
